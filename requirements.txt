@@ -1,4 +1,5 @@
 flask
 transformers
+google-generativeai
 torch
 gunicorn
