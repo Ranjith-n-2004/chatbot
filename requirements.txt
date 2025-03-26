@@ -1,6 +1,4 @@
 flask
-transformers
-google-generativeai
-torch
+cohere
 gunicorn
-werkzeug
+
