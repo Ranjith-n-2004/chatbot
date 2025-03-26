@@ -3,3 +3,4 @@ transformers
 google-generativeai
 torch
 gunicorn
+werkzeug
